@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first git repository
 <br>
-author-Sneha Sahoo
+author-Sneha Sahoo(student)
